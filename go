@@ -1,0 +1,12 @@
+github.com/tensorflow/tensorflow/tensorflow/go
+github.com/vmware/govmomi/govc
+jwt
+tbot
+google.golang.org/grpc
+github.com/sendgrid/sendgrid-go
+geoserver
+github.com/miekg/dns
+github.com/uber/jaeger-client-go
+github.com/hlandau/acme/cmd/acmetool
+github.com/hillu/go-yara
+github.com/dvyukov/go-fuzz/go-fuzz
