@@ -21,11 +21,10 @@ peco
 rs/tap/jaggr
 rs/tap/jplot
 telnet
-terraform
-terraform@0.11
 vault
 vegeta
 velero
+warrensbox/tap/tfswitch
 wget
 youtube-dl
 zsh
