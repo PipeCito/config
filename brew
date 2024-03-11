@@ -2,10 +2,12 @@ awscli
 azure-cli
 gh
 go
+homebrew/cask/brave-browser
 homebrew/cask/cyberduck
 homebrew/cask/firefox
 homebrew/cask/google-cloud-sdk
 homebrew/cask/iterm2
+homebrew/cask/royal-tsx
 homebrew/cask/slack
 homebrew/cask/spotify
 homebrew/cask/visual-studio-code
@@ -17,6 +19,7 @@ kubernetes-helm
 peco
 rs/tap/jaggr
 rs/tap/jplot
+tailscale
 telnet
 terraform-docs
 tfsec
